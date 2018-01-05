@@ -3,7 +3,7 @@
     comments: true
     date: 2018-01-05 20:00:32+00:00
     layout: post
-    title: PHP, Angular JS Development|My Export Quote|My first post
+    title: My first post
     categories:
     - Works
     - Tech
