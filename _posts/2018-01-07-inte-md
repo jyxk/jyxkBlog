@@ -1,0 +1,14 @@
+---
+layout: post
+title: The interesting Python
+---
+
+*emmmmmm.To be honest, I am not familiar with writing in Markdown
+-----
+# 思存小作业的一点东西
+就这次这个小作业我随便写一点吧……也不知道实现地对不对。由于看书正好看到面向对象的部分，因此也借机往下看了……晓光学长给的模板还是蛮适用的，虽然把类当作函数来用有一点无法理解。
+利用for循环来实现蒙特卡洛方法求定积分（其实就是矩形法只是这样听起来屌一点），但是要dx是浮点数的话，python本身的range方法不能支持，所以这里用了numpy里面的arange。
+然后画图也很简单，用给的库里面的函数……呃……
+然后……没有了……？
+
+Thanks!
